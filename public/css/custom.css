@@ -1,0 +1,49 @@
+.bg-body-custom{
+    background: #2464a4 !important;
+}
+
+.img-login-custom{
+    max-height: 90px;
+}
+
+.btn-login-custom{
+    background-color: #fbb345 !important;
+    border-color: #fbb345 !important;
+    color: #000 !important;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: #000 !important;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+    opacity: 0.7;
+}
+
+.custom-toggle{
+    background-color: #2464a4;
+    width: 56px;
+    height: 40px;
+}
+
+.card-login-custom{
+    background-color: #2464a4 !important;
+    box-shadow: 0 0 2rem 0 rgba(0, 0, 0, 0.15) !important;
+}
+
+.text-login-bold-white{
+    font-weight: bold !important;
+    color: #fff !important;
+}
+
+input[type="text"], textarea, input[type="email"], input[type="password"]{
+    background: #fff !important; 
+    background-color: #fff !important; 
+  }
+
+  input:-webkit-autofill,
+  input:-webkit-autofill:hover, 
+  input:-webkit-autofill:focus, 
+  input:-webkit-autofill:active  {
+      -webkit-box-shadow: 0 0 0 30px white inset !important;
+  }
